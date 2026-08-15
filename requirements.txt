@@ -4,3 +4,8 @@ numpy
 scikit-learn
 joblib
 openpyxl
+streamlit
+scikit-learn==1.5.2
+pandas
+numpy
+joblib
